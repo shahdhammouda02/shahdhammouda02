@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahd Hammouda</h1>
 <h3 align="center">A passionate frontend developer from Gaza</h3>
 
-- 🌱 I’m currently learning **Advanced React topics**
+- 💻 I’m currently specializing in **Advanced React topics and Next.js**
 
 - 💬 Ask me about **Frontend, React, Next, and Node**
 
