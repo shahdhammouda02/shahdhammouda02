@@ -1,14 +1,12 @@
-# Frontend Developer | React | Next.js
+# Full-Stack Software Developer
 
 ---
 
-Bachelor's degree in Software Development, specializing in building modern web applications with React and Next.js.
+Full-Stack Software Developer with a Bachelor's degree in Software Development and hands-on experience building web applications and business systems using React, Next.js, TypeScript, and Laravel.
 
-Zaytouna, my graduation project, is a full-stack Palestinian e-commerce platform - I led the React frontend with Redux Toolkit, covering role-based dashboards, product management, and vendor onboarding.
+Currently working remotely as a Software Developer, building ERP systems and mobile applications using AI agents like Claude and Codex. I also develop web applications involving frontend, backend, e-commerce, and API integrations.
 
-Worked remotely with the ArtFeat startup team as a React Frontend Developer, delivering real-time auctions, authentication, artist portfolios, and cart functionality using Zustand and TanStack Query. I also built AI-driven products on Next.js: an AI chat platform with streaming responses and an AI nutrition planner powered by Google Gemini.
-
-I completed several training programs, including React at Unit One Group and full-stack development at Zakey Tech under US mentorship. I focus on Next.js, TypeScript, and performance optimization, while expanding into AI automation and agentic workflows with n8n.
+My graduation project, Zaytouna Store, is a Palestinian multi-vendor e-commerce platform that connects local sellers with customers and supports Palestinian businesses through online commerce.
 
 ---
 
